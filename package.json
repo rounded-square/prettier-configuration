@@ -1,0 +1,22 @@
+{
+  "name": "@rounded-square/prettier-configuration",
+  "version": "1.0.0",
+  "description": "A configuration file for Prettier, used internally for consistent code styles.",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rounded-square/prettier-configuration.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rounded-square/prettier-configuration/issues"
+  },
+  "homepage": "https://github.com/rounded-square/prettier-configuration#readme"
+}
